@@ -1,0 +1,103 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://soilgrower.com/schemas/subterranean-field-record.schema.json",
+  "title": "Subterranean Root Zone Field Intervention Record",
+  "description": "Open JSON Schema for documenting diagnostic arboriculture, pneumatic AirSpade root collar excavations, soil bulk density decompaction, and rhizosphere carbon sponge interventions.",
+  "type": "object",
+  "required": [
+    "record_id",
+    "title",
+    "corridor",
+    "watershed",
+    "date",
+    "category",
+    "coordinates",
+    "ecological_scope"
+  ],
+  "properties": {
+    "record_id": {
+      "type": "string",
+      "pattern": "^SG-REC-[0-9]{3}$",
+      "description": "Deterministic field intervention identifier."
+    },
+    "title": {
+      "type": "string",
+      "description": "Anonymized project title describing the arboricultural and soil physics intervention."
+    },
+    "corridor": {
+      "type": "string",
+      "description": "Regional ecological or urban corridor with client identity removed."
+    },
+    "watershed": {
+      "type": "string",
+      "description": "Hydrological basin or watershed (e.g., San Gabriel River Basin, Shoal Creek Watershed, Edwards Recharge Zone)."
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Soil Sponge & Invigoration",
+        "Root Flare Excavation",
+        "Hardscape Conflict Resolution",
+        "Linear Root Discovery"
+      ]
+    },
+    "taxonomy": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "coordinates": {
+      "type": "object",
+      "required": ["lat", "lng", "privacy_offset_applied"],
+      "properties": {
+        "lat": { "type": "number", "minimum": -90, "maximum": 90 },
+        "lng": { "type": "number", "minimum": -180, "maximum": 180 },
+        "privacy_offset_applied": {
+          "type": "boolean",
+          "const": true,
+          "description": "Coordinates are jittered to the corridor level to protect private landowner identity while preserving watershed and soil-series context."
+        }
+      }
+    },
+    "ecological_scope": {
+      "type": "object",
+      "required": ["trees_treated", "specimens", "treatment_type", "crz_sqft"],
+      "properties": {
+        "trees_treated": { "type": "integer", "minimum": 1 },
+        "specimens": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "treatment_type": { "type": "string" },
+        "crz_sqft": {
+          "type": "number",
+          "description": "Total Critical Root Zone area evaluated in square feet."
+        },
+        "decompacted_area_sqft": {
+          "type": "number",
+          "description": "Total area fractured via supersonic pneumatic excavation (AirSpade 2000 at 90 PSI)."
+        },
+        "decompaction_depth_inches": { "type": "string" },
+        "penetrometer_reduction_psi": {
+          "type": "string",
+          "description": "Pre-treatment and post-treatment soil penetrometer resistance readings (ASTM D3441)."
+        },
+        "amendment_volumes": {
+          "type": "object",
+          "properties": {
+            "organic_compost_cuyd": { "type": "number" },
+            "native_mulch_cuyd": { "type": "number" },
+            "stormwater_managed_gallons": { "type": "number" },
+            "carbon_sequestered_annual_lbs": { "type": "number" }
+          }
+        },
+        "scientific_notes": { "type": "string" }
+      }
+    }
+  }
+}

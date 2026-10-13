@@ -1,0 +1,454 @@
+{
+  "type": "FeatureCollection",
+  "name": "Central_Texas_Subterranean_Field_Interventions",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "SG-REC-001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7078,
+          30.649
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-001",
+        "title": "Educational Campus Heritage Oak Grove Restoration",
+        "corridor": "Georgetown Institutional Campus Corridor, TX",
+        "watershed": "San Gabriel River Basin",
+        "date": "2025-06-08",
+        "category": "Soil Sponge & Invigoration",
+        "trees_treated": 4,
+        "specimens": "Quercus virginiana (Heritage Oak Grove)",
+        "crz_sqft": 9300,
+        "decompacted_area_sqft": 2300,
+        "penetrometer_reduction_psi": "Pre: 360 PSI to Post: 85 PSI",
+        "scientific_notes": "Aimed at alleviating heavy student foot-traffic compaction. Half-CRZ pneumatic radial aeration blended with 7 cu yd thermal compost and 20 cu yd hardwood mulch cap.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.702,
+          30.2642
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-002",
+        "title": "Comprehensive Urban Infill Soil Invigoration",
+        "corridor": "East Austin Urban Infill Corridor, TX",
+        "watershed": "Boggy Creek / Colorado River Basin",
+        "date": "2025-11-30",
+        "category": "Soil Sponge & Invigoration",
+        "trees_treated": 2,
+        "specimens": "Carya illinoinensis (Mature Legacy Pecans)",
+        "crz_sqft": 2000,
+        "decompacted_area_sqft": 2000,
+        "penetrometer_reduction_psi": "Pre: 340 PSI to Post: 85 PSI",
+        "scientific_notes": "Remediated severe construction staging compaction. Deep decompacted 2,000 sq ft CRZ, excavated buried root flares, and rototilled 6.2 cu yds of organic compost into root zone.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7645,
+          30.2995
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-003",
+        "title": "Heritage Live Oak CRZ Invigoration",
+        "corridor": "West Austin Residential Woodland Corridor, TX",
+        "watershed": "Shoal Creek / Lake Austin Basin",
+        "date": "2025-06-26",
+        "category": "Soil Sponge & Invigoration",
+        "trees_treated": 1,
+        "specimens": "Quercus virginiana (Centenarian Heritage Live Oak)",
+        "crz_sqft": 2400,
+        "decompacted_area_sqft": 2400,
+        "penetrometer_reduction_psi": "Pre: 380 PSI to Post: 95 PSI",
+        "scientific_notes": "Alleviated residential turf competition and historic foot-path hardpan. Exposed submerged root flare and created high-porosity fungal soil sponge.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7412,
+          30.3095
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-004",
+        "title": "Surgical Hardscape Conflict Resolution & Root Collar Excavation",
+        "corridor": "Central Austin Commercial Corridor, TX",
+        "watershed": "Shoal Creek Watershed",
+        "date": "2026-01-13",
+        "category": "Root Flare Excavations",
+        "trees_treated": 1,
+        "specimens": "Carya illinoinensis (26.5\" DBH Pecan)",
+        "crz_sqft": 1200,
+        "decompacted_area_sqft": 1200,
+        "penetrometer_reduction_psi": "Pre: 390 PSI to Post: 80 PSI",
+        "scientific_notes": "Prevented cambial necrosis and bark shockwaves by rejecting jackhammers; utilized AirSpade to clear root lip followed by vertical grapple lift and mycorrhizal backfill.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.669,
+          30.548
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-005",
+        "title": "Ecological Infill: Native Gum Bumelia Preservation & Root Surgery",
+        "corridor": "Round Rock Commercial Corridor, TX",
+        "watershed": "Brushy Creek Watershed",
+        "date": "2025-10-26",
+        "category": "Root Flare Excavations",
+        "trees_treated": 2,
+        "specimens": "Sideroxylon lanuginosum (Gum Bumelia), Celtis laevigata (Invasive Hackberry Root Mitigation)",
+        "crz_sqft": 1500,
+        "decompacted_area_sqft": 1500,
+        "penetrometer_reduction_psi": "Pre: 320 PSI to Post: 90 PSI",
+        "scientific_notes": "Surgically pruned aggressive invasive hackberry roots choking the root collar of a heritage Gum Bumelia, followed by root flare decompression and biochar inoculation.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7795,
+          30.209
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-006",
+        "title": "Commercial Foot-Traffic Soil Sponge Restoration",
+        "corridor": "South Austin Commercial Corridor, TX",
+        "watershed": "Williamson Creek / Colorado River Basin",
+        "date": "2025-06-06",
+        "category": "Soil Sponge & Invigoration",
+        "trees_treated": 4,
+        "specimens": "Quercus virginiana, Ulmus crassifolia",
+        "crz_sqft": 4800,
+        "decompacted_area_sqft": 4800,
+        "penetrometer_reduction_psi": "Pre: 410 PSI to Post: 85 PSI",
+        "scientific_notes": "Turnkey soil rehabilitation across high-traffic retail venue. Eliminated compacted irrigation crust, aerated 4,800 sq ft, and incorporated 12 cu yds of thermal compost.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.199,
+          31.5175
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-007",
+        "title": "Brazos River Basin Heritage Live Oak Vertisol Recovery",
+        "corridor": "Brazos River Basin Grounds, Waco, TX",
+        "watershed": "Brazos River Watershed",
+        "date": "2025-03-21",
+        "category": "Soil Sponge & Invigoration",
+        "trees_treated": 3,
+        "specimens": "Quercus virginiana (Centenarian Live Oaks)",
+        "crz_sqft": 4200,
+        "decompacted_area_sqft": 4200,
+        "penetrometer_reduction_psi": "Pre: 420 PSI to Post: 90 PSI",
+        "scientific_notes": "Overcame drought-hardened blackland vertisol clay shrinking/swelling stress. Established 18-inch vertical aeration columns backfilled with mineral basalt fines and humates.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.751,
+          30.252
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-008",
+        "title": "Urban Specimen Crepe Myrtle Soil Invigoration",
+        "corridor": "South Austin Residential Corridor, TX",
+        "watershed": "Lady Bird Lake / Colorado River Basin",
+        "date": "2025-04-29",
+        "category": "Soil Sponge & Invigoration",
+        "trees_treated": 1,
+        "specimens": "Lagerstroemia indica (Heritage Crepe Myrtle)",
+        "crz_sqft": 400,
+        "decompacted_area_sqft": 400,
+        "penetrometer_reduction_psi": "Pre: 310 PSI to Post: 85 PSI",
+        "scientific_notes": "Surgical root zone aeration and compost integration for established ornamental specimen trees under urban foot compaction.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.863,
+          30.283
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-009",
+        "title": "Edwards Recharge Karst CRZ Decompaction & Root Flare Restoration",
+        "corridor": "Southwest Austin Karst Woodland, TX",
+        "watershed": "Barton Creek / Edwards Recharge Zone",
+        "date": "2025-04-09",
+        "category": "AirSpade Decompaction",
+        "trees_treated": 5,
+        "specimens": "Quercus virginiana (Mature Live Oaks), Ulmus crassifolia (Cedar Elm)",
+        "crz_sqft": 3200,
+        "decompacted_area_sqft": 3200,
+        "penetrometer_reduction_psi": "Pre: 340 PSI to Post: 90 PSI",
+        "scientific_notes": "Pneumatic soil fracturing in sensitive Edwards Recharge karst soils.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.697,
+          30.257
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-010",
+        "title": "Confined Urban Tree Well & Canopy Decompaction",
+        "corridor": "East Austin Commercial Corridor, TX",
+        "watershed": "Colorado River Basin",
+        "date": "2025-10-10",
+        "category": "Urban Infill Invigoration",
+        "trees_treated": 1,
+        "specimens": "Quercus virginiana (Tree T19802)",
+        "crz_sqft": 1100,
+        "decompacted_area_sqft": 1100,
+        "penetrometer_reduction_psi": "Pre: 370 PSI to Post: 95 PSI",
+        "scientific_notes": "Decompacting confined urban tree wells to restore macropore connectivity.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.728,
+          30.347
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-011",
+        "title": "Institutional Grounds Live Oak Root System Remediation",
+        "corridor": "North Austin Institutional Grounds, TX",
+        "watershed": "Shoal Creek Watershed",
+        "date": "2026-05-22",
+        "category": "Root Collar Excavation",
+        "trees_treated": 1,
+        "specimens": "Quercus virginiana (Heritage Live Oak)",
+        "crz_sqft": 1600,
+        "decompacted_area_sqft": 1600,
+        "penetrometer_reduction_psi": "Pre: 330 PSI to Post: 80 PSI",
+        "scientific_notes": "Remobilization of mature Live Oak root systems following site disturbance.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.742,
+          30.635
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-012",
+        "title": "Heritage Live Oak Grove 12,000 sq ft Soil Invigoration & Lab-Verified Soil Biology",
+        "corridor": "San Gabriel River Basin Corridor, Georgetown, TX",
+        "watershed": "San Gabriel River Basin",
+        "date": "2026-03-12",
+        "category": "Soil Sponge & Invigoration",
+        "trees_treated": 8,
+        "specimens": "Quercus virginiana Grove (8 Heritage Live Oaks)",
+        "crz_sqft": 12000,
+        "decompacted_area_sqft": 12000,
+        "penetrometer_reduction_psi": "Pre: 360 PSI to Post: 90 PSI",
+        "scientific_notes": "Site tree survey and Texas A&M AgriLife laboratory testing (Report 691815) confirmed adequate mineral reserves and 4.91% organic matter, establishing that tree stress was caused by physical pore compaction and hypoxia rather than chemical nutrient deficiency.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.206,
+          30.613
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-013",
+        "title": "Non-Destructive Municipal Root Discovery Trenching",
+        "corridor": "San Gabriel / Little River Municipal Corridor, TX",
+        "watershed": "San Gabriel / Little River Basin",
+        "date": "2026-07-08",
+        "category": "Pneumatic Trenching",
+        "trees_treated": 2,
+        "specimens": "Quercus fusiformis (Protected Escarpment Live Oaks)",
+        "crz_sqft": null,
+        "decompacted_area_sqft": null,
+        "penetrometer_reduction_psi": "Subsurface Root Mapping",
+        "scientific_notes": "Surgical root discovery allowing infrastructure installation without severing anchor roots.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.668,
+          30.548
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-014",
+        "title": "Root Collar Excavation & Stem-Girdling Root Surgery",
+        "corridor": "Round Rock Institutional Corridor, TX",
+        "watershed": "Brushy Creek Watershed",
+        "date": "2026-08-21",
+        "category": "Root Surgery & Excavation",
+        "trees_treated": 1,
+        "specimens": "Quercus virginiana (Submerged Collar Live Oak)",
+        "crz_sqft": 850,
+        "decompacted_area_sqft": 850,
+        "penetrometer_reduction_psi": "Pre: 390 PSI to Post: 85 PSI",
+        "scientific_notes": "Correcting vascular constriction caused by deep planting and soil accumulation.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.946,
+          30.312
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-015",
+        "title": "Lake Travis Basin Root Flare Excavation & Soil Sponge",
+        "corridor": "Bee Cave Woodland Corridor, TX",
+        "watershed": "Lake Travis / Colorado River Basin",
+        "date": "2026-04-17",
+        "category": "Root Collar Excavation",
+        "trees_treated": 1,
+        "specimens": "Quercus virginiana (Hill Country Live Oak)",
+        "crz_sqft": 1400,
+        "decompacted_area_sqft": 1400,
+        "penetrometer_reduction_psi": "Pre: 350 PSI to Post: 90 PSI",
+        "scientific_notes": "Exposing subterranean flare lenticels and establishing living mulch sponge.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.753,
+          30.364
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-016",
+        "title": "Northwest Hills Institutional Heritage Oak Grove Restoration",
+        "corridor": "Northwest Hills Institutional Campus, Austin, TX",
+        "watershed": "Shoal Creek Watershed",
+        "date": "2025-06-11",
+        "category": "Soil Sponge & Invigoration",
+        "trees_treated": 6,
+        "specimens": "Quercus virginiana (Sanctuary Heritage Oak Grove)",
+        "crz_sqft": 5500,
+        "decompacted_area_sqft": 5500,
+        "penetrometer_reduction_psi": "Pre: 385 PSI to Post: 90 PSI",
+        "scientific_notes": "Restoring mycorrhizal fungi and decompacting soil under heritage oak grove.",
+        "privacy_offset_applied": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SG-REC-017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.708,
+          30.389
+        ]
+      },
+      "properties": {
+        "record_id": "SG-REC-017",
+        "title": "Industrial Corridor Root Zone Decompaction",
+        "corridor": "North Austin Industrial Corridor, TX",
+        "watershed": "Walnut Creek Watershed",
+        "date": "2025-04-03",
+        "category": "Industrial Soil Invigoration",
+        "trees_treated": 2,
+        "specimens": "Quercus virginiana (Industrial Corridor Heritage Live Oaks)",
+        "crz_sqft": 3600,
+        "decompacted_area_sqft": 3600,
+        "penetrometer_reduction_psi": "Pre: 410 PSI to Post: 95 PSI",
+        "scientific_notes": "Mitigating intense commercial parking and equipment compaction in Walnut Creek watershed.",
+        "privacy_offset_applied": true
+      }
+    }
+  ]
+}

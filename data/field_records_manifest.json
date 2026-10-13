@@ -1,0 +1,691 @@
+{
+  "schema_version": "2.1.0",
+  "repository": "soilgrowerx/subterranean-field-records",
+  "live_showcase_url": "https://soilgrower.com/showcase/",
+  "lead_arborist": {
+    "name": "George Steward",
+    "credential": "ISA Certified Arborist TX-362025A",
+    "qualifications": [
+      "ISA Texas Chapter Oak Wilt Qualified",
+      "TDA Commercial Pesticide Applicator"
+    ],
+    "practice": "Soil Grower (Central Texas)"
+  },
+  "program_ecological_aggregate_metrics": {
+    "crz_area_aerated_sqft": 36800,
+    "subsurface_soil_decompacted_cuyd": 465,
+    "biological_amendments_infiltrated_cuyd": 108.5,
+    "mature_specimen_trees_stabilized": 74,
+    "annual_carbon_sequestered_lbs": 14200,
+    "stormwater_infiltration_capacity_gal": 85000,
+    "watershed_corridors_treated": [
+      "Shoal Creek Watershed",
+      "San Gabriel River Basin",
+      "Walnut Creek Watershed",
+      "Barton Creek / Edwards Recharge Zone",
+      "Williamson Creek Basin",
+      "Brazos River Basin"
+    ]
+  },
+  "soil_mechanics_primer": [
+    {
+      "id": "compaction-threshold",
+      "title": "Soil Compaction & Bulk Density",
+      "metric": "> 300 PSI / > 1.6 g/cm3",
+      "summary": "Root elongation ceases when soil penetrometer resistance exceeds 300 PSI. Mechanical air fracturing restores macropore volume without tearing root vascular tissue.",
+      "diagnostic_threshold": "Diagnostic Indicator: Subsurface bulk density exceeding 1.6 g/cm3 and penetrometer readings over 300 PSI arrest root elongation."
+    },
+    {
+      "id": "collar-suffocation",
+      "title": "Root Collar Lenticel Aeration",
+      "metric": "8 to 14 inches buried",
+      "summary": "Trunk bark tissue lacks protective suberin barriers found in roots. Grade changes or turf buildup cause anaerobic moisture trapping, adventitious girdling roots, and fungal pathogen ingress.",
+      "diagnostic_threshold": "Diagnostic Indicator: Buried root collars exceeding 4 to 6 inches of mineral fill show high susceptibility to hypoxia and vascular constriction."
+    },
+    {
+      "id": "carbon-sponge",
+      "title": "Soil Carbon Sponge & Infiltration",
+      "metric": "Enhanced Water Holding Capacity",
+      "summary": "Blending pyrolyzed biochar with active compost builds stable aggregate structure, expanding water retention in heavy vertisols and recharging local karst aquifers.",
+      "diagnostic_threshold": "Diagnostic Indicator: Post-treatment water infiltration rate deltas confirm macropore connectivity and living soil sponge establishment."
+    }
+  ],
+  "projects": [
+    {
+      "record_id": "SG-REC-001",
+      "title": "Educational Campus Heritage Oak Grove Restoration",
+      "corridor": "Georgetown Institutional Campus Corridor, TX",
+      "watershed": "San Gabriel River Basin",
+      "date": "2025-06-08",
+      "category": "Soil Sponge & Invigoration",
+      "taxonomy": [
+        "Soil Sponge",
+        "Root Flare Excavation",
+        "Live Oak",
+        "Campus Canopy"
+      ],
+      "coordinates": {
+        "lat": 30.649,
+        "lng": -97.7078,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "trees_treated": 4,
+        "specimens": [
+          "Quercus virginiana (Heritage Oak Grove)"
+        ],
+        "treatment_type": "Pneumatic AirSpade Decompaction, Compost Tillage, High-Phosphorus Fertilization, Hardwood Mulch Sponge",
+        "crz_sqft": 9300,
+        "decompacted_area_sqft": 2300,
+        "decompaction_depth_inches": "6 to 8 inches",
+        "amendment_volumes": {
+          "organic_compost_cuyd": 7.0,
+          "native_mulch_cuyd": 10.0,
+          "stormwater_managed_gallons": 575,
+          "carbon_sequestered_annual_lbs": 175
+        },
+        "scientific_notes": "Aimed at alleviating heavy student foot-traffic compaction. Half-CRZ pneumatic radial aeration blended with 7 cu yd thermal compost and 20 cu yd hardwood mulch cap.",
+        "penetrometer_reduction_psi": "Pre: 360 PSI to Post: 85 PSI"
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-002",
+      "title": "Comprehensive Urban Infill Soil Invigoration",
+      "corridor": "East Austin Urban Infill Corridor, TX",
+      "watershed": "Boggy Creek / Colorado River Basin",
+      "date": "2025-11-30",
+      "category": "Soil Sponge & Invigoration",
+      "taxonomy": [
+        "Soil Sponge",
+        "Root Flare Excavation",
+        "Pecan",
+        "Urban Infill"
+      ],
+      "coordinates": {
+        "lat": 30.2642,
+        "lng": -97.702,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "trees_treated": 2,
+        "specimens": [
+          "Carya illinoinensis (Mature Legacy Pecans)"
+        ],
+        "treatment_type": "AirSpade Decompaction (6-8 inches), Root Collar Excavation (RCE), Compost Tillage, Final Grading",
+        "crz_sqft": 2000,
+        "amendment_volumes": {
+          "organic_compost_cuyd": 6.2,
+          "stormwater_managed_gallons": 500,
+          "carbon_sequestered_annual_lbs": 150,
+          "soil_health_enhanced_sqft": 2000
+        },
+        "scientific_notes": "Remediated severe construction staging compaction. Deep decompacted 2,000 sq ft CRZ, excavated buried root flares, and rototilled 6.2 cu yds of organic compost into root zone.",
+        "decompacted_area_sqft": 2000,
+        "penetrometer_reduction_psi": "Pre: 340 PSI to Post: 85 PSI"
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-003",
+      "title": "Heritage Live Oak CRZ Invigoration",
+      "corridor": "West Austin Residential Woodland Corridor, TX",
+      "watershed": "Shoal Creek / Lake Austin Basin",
+      "date": "2025-06-26",
+      "category": "Soil Sponge & Invigoration",
+      "taxonomy": [
+        "Soil Sponge",
+        "Root Flare Excavation",
+        "Live Oak"
+      ],
+      "coordinates": {
+        "lat": 30.2995,
+        "lng": -97.7645,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "trees_treated": 1,
+        "specimens": [
+          "Quercus virginiana (Centenarian Heritage Live Oak)"
+        ],
+        "treatment_type": "Full CRZ AirSpade Tillage, Custom Biochar & Compost Integration, Fungal Inoculation",
+        "crz_sqft": 2400,
+        "penetrometer_reduction_psi": "Pre: 380 PSI to Post: 95 PSI",
+        "amendment_volumes": {
+          "organic_compost_cuyd": 5.5,
+          "biochar_cuyd": 1.5,
+          "volcanic_basalt_fines_lbs": 250,
+          "stormwater_managed_gallons": 600,
+          "carbon_sequestered_annual_lbs": 180,
+          "mycorrhizal_inoculants": "Glomus intraradices & ecto-spore suspension"
+        },
+        "scientific_notes": "Alleviated residential turf competition and historic foot-path hardpan. Exposed submerged root flare and created high-porosity fungal soil sponge.",
+        "decompacted_area_sqft": 2400
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-004",
+      "title": "Surgical Hardscape Conflict Resolution & Root Collar Excavation",
+      "corridor": "Central Austin Commercial Corridor, TX",
+      "watershed": "Shoal Creek Watershed",
+      "date": "2026-01-13",
+      "category": "Root Flare Excavations",
+      "taxonomy": [
+        "Root Flare Excavation",
+        "AirSpade",
+        "Pecan",
+        "Hardscape Surgery"
+      ],
+      "coordinates": {
+        "lat": 30.3095,
+        "lng": -97.7412,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "trees_treated": 1,
+        "specimens": [
+          "Carya illinoinensis (26.5\" DBH Pecan)"
+        ],
+        "treatment_type": "Surgical Relief Excavation, Pneumatic Root Verification, Non-Percussive Hydraulic Vertical Extraction, 60/40 Soil-Compost-Biochar Backfill",
+        "crz_sqft": 1200,
+        "biological_constraints": "24-inch concrete curb footing directly abutting trunk causing vascular compression; 8-inch primary structural root trapped under curb lip.",
+        "scientific_notes": "Prevented cambial necrosis and bark shockwaves by rejecting jackhammers; utilized AirSpade to clear root lip followed by vertical grapple lift and mycorrhizal backfill.",
+        "decompacted_area_sqft": 1200,
+        "penetrometer_reduction_psi": "Pre: 390 PSI to Post: 80 PSI",
+        "amendment_volumes": {
+          "engineered_compost_cuyd": 3.5,
+          "biochar_cuyd": 0.8,
+          "stormwater_managed_gallons": 300,
+          "carbon_sequestered_annual_lbs": 90
+        }
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-005",
+      "title": "Ecological Infill: Native Gum Bumelia Preservation & Root Surgery",
+      "corridor": "Round Rock Commercial Corridor, TX",
+      "watershed": "Brushy Creek Watershed",
+      "date": "2025-10-26",
+      "category": "Root Flare Excavations",
+      "taxonomy": [
+        "Root Flare Excavation",
+        "Root Pruning",
+        "Gum Bumelia",
+        "Invasive Mitigation"
+      ],
+      "coordinates": {
+        "lat": 30.548,
+        "lng": -97.669,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "trees_treated": 2,
+        "specimens": [
+          "Sideroxylon lanuginosum (Gum Bumelia)",
+          "Celtis laevigata (Invasive Hackberry Root Mitigation)"
+        ],
+        "treatment_type": "Root Flare Excavation, Selective Invasive Root Pruning, Biochar & Organic Compost Infiltration, Mulch Barrier",
+        "crz_sqft": 1500,
+        "scientific_notes": "Surgically pruned aggressive invasive hackberry roots choking the root collar of a heritage Gum Bumelia, followed by root flare decompression and biochar inoculation.",
+        "decompacted_area_sqft": 1500,
+        "penetrometer_reduction_psi": "Pre: 320 PSI to Post: 90 PSI",
+        "amendment_volumes": {
+          "organic_compost_cuyd": 4.0,
+          "native_mulch_cuyd": 6.0,
+          "stormwater_managed_gallons": 375,
+          "carbon_sequestered_annual_lbs": 115
+        }
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-006",
+      "title": "Commercial Foot-Traffic Soil Sponge Restoration",
+      "corridor": "South Austin Commercial Corridor, TX",
+      "watershed": "Williamson Creek / Colorado River Basin",
+      "date": "2025-06-06",
+      "category": "Soil Sponge & Invigoration",
+      "taxonomy": [
+        "Soil Sponge",
+        "AirSpade",
+        "Live Oak",
+        "Cedar Elm"
+      ],
+      "coordinates": {
+        "lat": 30.209,
+        "lng": -97.7795,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "trees_treated": 4,
+        "specimens": [
+          "Quercus virginiana",
+          "Ulmus crassifolia"
+        ],
+        "treatment_type": "Full CRZ Air Tilling, Irrigation Removal, Compost Blending, Mulch Sponge",
+        "crz_sqft": 4800,
+        "amendment_volumes": {
+          "organic_compost_cuyd": 12.0,
+          "mulch_cuyd": 18.0,
+          "stormwater_managed_gallons": 1200,
+          "carbon_sequestered_annual_lbs": 360
+        },
+        "scientific_notes": "Turnkey soil rehabilitation across high-traffic retail venue. Eliminated compacted irrigation crust, aerated 4,800 sq ft, and incorporated 12 cu yds of thermal compost.",
+        "decompacted_area_sqft": 4800,
+        "penetrometer_reduction_psi": "Pre: 410 PSI to Post: 85 PSI"
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-007",
+      "title": "Brazos River Basin Heritage Live Oak Vertisol Recovery",
+      "corridor": "Brazos River Basin Grounds, Waco, TX",
+      "watershed": "Brazos River Watershed",
+      "date": "2025-03-21",
+      "category": "Soil Sponge & Invigoration",
+      "taxonomy": [
+        "Soil Sponge",
+        "Root Flare Excavation",
+        "Live Oak",
+        "Vertisol Clay"
+      ],
+      "coordinates": {
+        "lat": 31.5175,
+        "lng": -97.199,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "trees_treated": 3,
+        "specimens": [
+          "Quercus virginiana (Centenarian Live Oaks)"
+        ],
+        "treatment_type": "Vertical Mulching Grid (18 inches depth), Root Flare Exposure, Volcanic Basalt Fines, Liquid Humate Injection",
+        "crz_sqft": 4200,
+        "penetrometer_reduction_psi": "Pre: 420 PSI to Post: 90 PSI",
+        "amendment_volumes": {
+          "volcanic_basalt_fines_lbs": 400,
+          "liquid_biostimulant_gallons": 120,
+          "worm_castings_cuyd": 2.5,
+          "stormwater_managed_gallons": 1050,
+          "carbon_sequestered_annual_lbs": 315
+        },
+        "scientific_notes": "Overcame drought-hardened blackland vertisol clay shrinking/swelling stress. Established 18-inch vertical aeration columns backfilled with mineral basalt fines and humates.",
+        "decompacted_area_sqft": 4200
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-008",
+      "title": "Urban Specimen Crepe Myrtle Soil Invigoration",
+      "corridor": "South Austin Residential Corridor, TX",
+      "watershed": "Lady Bird Lake / Colorado River Basin",
+      "date": "2025-04-29",
+      "category": "Soil Sponge & Invigoration",
+      "taxonomy": [
+        "Soil Sponge",
+        "Crepe Myrtle",
+        "Urban Infill",
+        "Root Aeration"
+      ],
+      "coordinates": {
+        "lat": 30.252,
+        "lng": -97.751,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "treatment_type": "AirSpade decompaction, fungal compost tillage, hardwood mulch blanket",
+        "scientific_notes": "Surgical root zone aeration and compost integration for established ornamental specimen trees under urban foot compaction.",
+        "crz_sqft": 400,
+        "decompacted_area_sqft": 400,
+        "penetrometer_reduction_psi": "Pre: 310 PSI to Post: 85 PSI",
+        "trees_treated": 1,
+        "specimens": [
+          "Lagerstroemia indica (Heritage Crepe Myrtle)"
+        ],
+        "amendment_volumes": {
+          "organic_compost_cuyd": 1.2,
+          "hardwood_mulch_cuyd": 2.0,
+          "stormwater_managed_gallons": 100,
+          "carbon_sequestered_annual_lbs": 30
+        }
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-009",
+      "title": "Edwards Recharge Karst CRZ Decompaction & Root Flare Restoration",
+      "corridor": "Southwest Austin Karst Woodland, TX",
+      "watershed": "Barton Creek / Edwards Recharge Zone",
+      "date": "2025-04-09",
+      "category": "AirSpade Decompaction",
+      "taxonomy": [
+        "AirSpade",
+        "Root Flare Excavation",
+        "Live Oak",
+        "Karst Recharge"
+      ],
+      "coordinates": {
+        "lat": 30.283,
+        "lng": -97.863,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "treatment_type": "AirSpade root collar excavation, critical root zone decompaction, compost application",
+        "scientific_notes": "Pneumatic soil fracturing in sensitive Edwards Recharge karst soils.",
+        "crz_sqft": 3200,
+        "decompacted_area_sqft": 3200,
+        "penetrometer_reduction_psi": "Pre: 340 PSI to Post: 90 PSI",
+        "trees_treated": 5,
+        "specimens": [
+          "Quercus virginiana (Mature Live Oaks)",
+          "Ulmus crassifolia (Cedar Elm)"
+        ],
+        "amendment_volumes": {
+          "organic_compost_cuyd": 8.0,
+          "native_mulch_cuyd": 12.0,
+          "stormwater_managed_gallons": 800,
+          "carbon_sequestered_annual_lbs": 240
+        }
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-010",
+      "title": "Confined Urban Tree Well & Canopy Decompaction",
+      "corridor": "East Austin Commercial Corridor, TX",
+      "watershed": "Colorado River Basin",
+      "date": "2025-10-10",
+      "category": "Urban Infill Invigoration",
+      "taxonomy": [
+        "Urban Canopy",
+        "AirSpade",
+        "Root Protection",
+        "Mulch Cap"
+      ],
+      "coordinates": {
+        "lat": 30.257,
+        "lng": -97.697,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "treatment_type": "Pneumatic pneumatic decompaction, organic amendment infiltration",
+        "scientific_notes": "Decompacting confined urban tree wells to restore macropore connectivity.",
+        "crz_sqft": 1100,
+        "decompacted_area_sqft": 1100,
+        "penetrometer_reduction_psi": "Pre: 370 PSI to Post: 95 PSI",
+        "trees_treated": 1,
+        "specimens": [
+          "Quercus virginiana (Tree T19802)"
+        ],
+        "amendment_volumes": {
+          "organic_compost_cuyd": 3.0,
+          "biochar_cuyd": 0.8,
+          "stormwater_managed_gallons": 275,
+          "carbon_sequestered_annual_lbs": 85
+        }
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-011",
+      "title": "Institutional Grounds Live Oak Root System Remediation",
+      "corridor": "North Austin Institutional Grounds, TX",
+      "watershed": "Shoal Creek Watershed",
+      "date": "2026-05-22",
+      "category": "Root Collar Excavation",
+      "taxonomy": [
+        "Root Pruning",
+        "Live Oak",
+        "AirSpade",
+        "Remobilization"
+      ],
+      "coordinates": {
+        "lat": 30.347,
+        "lng": -97.728,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "treatment_type": "Pneumatic root discovery, surgical root pruning, compost integration",
+        "scientific_notes": "Remobilization of mature Live Oak root systems following site disturbance.",
+        "crz_sqft": 1600,
+        "decompacted_area_sqft": 1600,
+        "penetrometer_reduction_psi": "Pre: 330 PSI to Post: 80 PSI",
+        "trees_treated": 1,
+        "specimens": [
+          "Quercus virginiana (Heritage Live Oak)"
+        ],
+        "amendment_volumes": {
+          "organic_compost_cuyd": 4.5,
+          "biochar_cuyd": 1.0,
+          "stormwater_managed_gallons": 400,
+          "carbon_sequestered_annual_lbs": 120
+        }
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-012",
+      "title": "Heritage Live Oak Grove 12,000 sq ft Soil Invigoration & Lab-Verified Soil Biology",
+      "corridor": "San Gabriel River Basin Corridor, Georgetown, TX",
+      "watershed": "San Gabriel River Basin",
+      "date": "2026-03-12",
+      "category": "Soil Sponge & Invigoration",
+      "taxonomy": [
+        "Soil Sponge",
+        "Compost Infiltration",
+        "Large Scale Decompaction",
+        "Live Oak"
+      ],
+      "coordinates": {
+        "lat": 30.635,
+        "lng": -97.742,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "treatment_type": "Pneumatic radial decompaction across 12,000 sq ft, compost incorporation, and arborist mulch blanket",
+        "scientific_notes": "Site tree survey and Texas A&M AgriLife laboratory testing (Report 691815) confirmed adequate mineral reserves and 4.91% organic matter, establishing that tree stress was caused by physical pore compaction and hypoxia rather than chemical nutrient deficiency.",
+        "crz_sqft": 12000,
+        "decompacted_area_sqft": 12000,
+        "penetrometer_reduction_psi": "Pre: 360 PSI to Post: 90 PSI",
+        "trees_treated": 8,
+        "specimens": [
+          "Quercus virginiana Grove (8 Heritage Live Oaks)"
+        ],
+        "amendment_volumes": {
+          "organic_compost_cuyd": 28.0,
+          "native_mulch_cuyd": 45.0,
+          "stormwater_managed_gallons": 3000,
+          "carbon_sequestered_annual_lbs": 900
+        }
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-013",
+      "title": "Non-Destructive Municipal Root Discovery Trenching",
+      "corridor": "San Gabriel / Little River Municipal Corridor, TX",
+      "watershed": "San Gabriel / Little River Basin",
+      "date": "2026-07-08",
+      "category": "Pneumatic Trenching",
+      "taxonomy": [
+        "Linear Trenching",
+        "AirSpade",
+        "Root Discovery",
+        "Infrastructure Conflict"
+      ],
+      "coordinates": {
+        "lat": 30.613,
+        "lng": -97.206,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "treatment_type": "90 LF pneumatic trenching, non-destructive root mapping",
+        "scientific_notes": "Surgical root discovery allowing infrastructure installation without severing anchor roots.",
+        "linear_feet_trenched": 90,
+        "penetrometer_reduction_psi": "Subsurface Root Mapping",
+        "trees_treated": 2,
+        "specimens": [
+          "Quercus fusiformis (Protected Escarpment Live Oaks)"
+        ],
+        "amendment_volumes": {
+          "structural_soil_backfill_cuyd": 4.0,
+          "mycorrhizal_inoculants": "Root Dip & Spore Slurry",
+          "stormwater_managed_gallons": 225,
+          "carbon_sequestered_annual_lbs": 70
+        }
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-014",
+      "title": "Root Collar Excavation & Stem-Girdling Root Surgery",
+      "corridor": "Round Rock Institutional Corridor, TX",
+      "watershed": "Brushy Creek Watershed",
+      "date": "2026-08-21",
+      "category": "Root Surgery & Excavation",
+      "taxonomy": [
+        "Girdling Root",
+        "Root Collar Excavation",
+        "Surgical Pruning",
+        "Compost"
+      ],
+      "coordinates": {
+        "lat": 30.548,
+        "lng": -97.668,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "treatment_type": "Root flare excavation, severance of 1.5-inch girdling root, compost tillage",
+        "scientific_notes": "Correcting vascular constriction caused by deep planting and soil accumulation.",
+        "crz_sqft": 850,
+        "decompacted_area_sqft": 850,
+        "penetrometer_reduction_psi": "Pre: 390 PSI to Post: 85 PSI",
+        "trees_treated": 1,
+        "specimens": [
+          "Quercus virginiana (Submerged Collar Live Oak)"
+        ],
+        "amendment_volumes": {
+          "organic_compost_cuyd": 2.2,
+          "hardwood_mulch_cuyd": 3.5,
+          "stormwater_managed_gallons": 210,
+          "carbon_sequestered_annual_lbs": 65
+        }
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-015",
+      "title": "Lake Travis Basin Root Flare Excavation & Soil Sponge",
+      "corridor": "Bee Cave Woodland Corridor, TX",
+      "watershed": "Lake Travis / Colorado River Basin",
+      "date": "2026-04-17",
+      "category": "Root Collar Excavation",
+      "taxonomy": [
+        "Root Flare",
+        "AirSpade",
+        "Soil Sponge",
+        "Hill Country Oak"
+      ],
+      "coordinates": {
+        "lat": 30.312,
+        "lng": -97.946,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "treatment_type": "Pneumatic root flare excavation and CRZ decompaction",
+        "scientific_notes": "Exposing subterranean flare lenticels and establishing living mulch sponge.",
+        "crz_sqft": 1400,
+        "decompacted_area_sqft": 1400,
+        "penetrometer_reduction_psi": "Pre: 350 PSI to Post: 90 PSI",
+        "trees_treated": 1,
+        "specimens": [
+          "Quercus virginiana (Hill Country Live Oak)"
+        ],
+        "amendment_volumes": {
+          "organic_compost_cuyd": 3.8,
+          "mulch_cuyd": 5.0,
+          "stormwater_managed_gallons": 350,
+          "carbon_sequestered_annual_lbs": 105
+        }
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-016",
+      "title": "Northwest Hills Institutional Heritage Oak Grove Restoration",
+      "corridor": "Northwest Hills Institutional Campus, Austin, TX",
+      "watershed": "Shoal Creek Watershed",
+      "date": "2025-06-11",
+      "category": "Soil Sponge & Invigoration",
+      "taxonomy": [
+        "Oak Grove",
+        "AirSpade",
+        "Compost Tillage",
+        "Mulch Sponge"
+      ],
+      "coordinates": {
+        "lat": 30.364,
+        "lng": -97.753,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "treatment_type": "Grove-scale pneumatic aeration, compost tillage, organic mulch cap",
+        "scientific_notes": "Restoring mycorrhizal fungi and decompacting soil under heritage oak grove.",
+        "crz_sqft": 5500,
+        "decompacted_area_sqft": 5500,
+        "linear_feet_trenched": 25,
+        "penetrometer_reduction_psi": "Pre: 385 PSI to Post: 90 PSI",
+        "trees_treated": 6,
+        "specimens": [
+          "Quercus virginiana (Sanctuary Heritage Oak Grove)"
+        ],
+        "amendment_volumes": {
+          "organic_compost_cuyd": 14.0,
+          "native_mulch_cuyd": 22.0,
+          "stormwater_managed_gallons": 1375,
+          "carbon_sequestered_annual_lbs": 410
+        }
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    },
+    {
+      "record_id": "SG-REC-017",
+      "title": "Industrial Corridor Root Zone Decompaction",
+      "corridor": "North Austin Industrial Corridor, TX",
+      "watershed": "Walnut Creek Watershed",
+      "date": "2025-04-03",
+      "category": "Industrial Soil Invigoration",
+      "taxonomy": [
+        "Industrial Infill",
+        "AirSpade",
+        "High Bulk Density",
+        "Biochar"
+      ],
+      "coordinates": {
+        "lat": 30.389,
+        "lng": -97.708,
+        "privacy_offset_applied": true
+      },
+      "ecological_scope": {
+        "treatment_type": "Heavy industrial vertisol decompaction and biological amendment tillage",
+        "scientific_notes": "Mitigating intense commercial parking and equipment compaction in Walnut Creek watershed.",
+        "crz_sqft": 3600,
+        "decompacted_area_sqft": 3600,
+        "penetrometer_reduction_psi": "Pre: 410 PSI to Post: 95 PSI",
+        "trees_treated": 2,
+        "specimens": [
+          "Quercus virginiana (Industrial Corridor Heritage Live Oaks)"
+        ],
+        "amendment_volumes": {
+          "organic_compost_cuyd": 9.5,
+          "biochar_cuyd": 2.5,
+          "stormwater_managed_gallons": 900,
+          "carbon_sequestered_annual_lbs": 270
+        }
+      },
+      "role": "Lead Diagnostic & Pneumatic Field Arborist (ISA TX-362025A)"
+    }
+  ]
+}
