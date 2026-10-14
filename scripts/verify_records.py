@@ -3,6 +3,7 @@
 Validate and summarize Subterranean Field Intervention Records.
 Computes aggregate Critical Root Zone (CRZ) area, decompacted square footage,
 specimen counts, and watershed distribution directly from field_records_manifest.json.
+Validates 2-decimal coordinate rounding for landowner privacy.
 """
 
 import json
@@ -41,8 +42,18 @@ def main() -> None:
         categories[p.get("category", "Unknown")] += 1
         assert p["coordinates"].get("privacy_offset_applied") is True, f"Missing privacy offset on {p['record_id']}"
 
+        lat = p["coordinates"]["lat"]
+        lng = p["coordinates"]["lng"]
+        assert round(lat, 2) == lat, f"Latitude not rounded to 2 decimals on {p['record_id']}: {lat}"
+        assert round(lng, 2) == lng, f"Longitude not rounded to 2 decimals on {p['record_id']}: {lng}"
+
+    for feat in features:
+        lng, lat = feat["geometry"]["coordinates"]
+        assert round(lat, 2) == lat, f"GeoJSON latitude not rounded to 2 decimals on {feat['id']}: {lat}"
+        assert round(lng, 2) == lng, f"GeoJSON longitude not rounded to 2 decimals on {feat['id']}: {lng}"
+
     print("=== Subterranean Field Records Verification Summary ===")
-    print(f"Verified Field Interventions : {len(projects)} parcels")
+    print(f"Documented Field Interventions: {len(projects)} parcels")
     print(f"GeoJSON Spatial Features     : {len(features)} points (CRS84)")
     print(f"Summed Parcel CRZ Evaluated  : {total_crz_sqft:,} sq ft")
     print(f"Summed Pneumatic Decompaction: {total_decompacted_sqft:,} sq ft")

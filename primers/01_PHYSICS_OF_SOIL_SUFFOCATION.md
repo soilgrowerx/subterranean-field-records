@@ -1,7 +1,7 @@
 # First Principles: The Physics of Soil Suffocation and Root Zone Restoration
 
 **Author:** George Steward, ISA Certified Arborist (`TX-362025A`)  
-**Practice:** [Soil Grower](https://soilgrower.com) | [Interactive Spatial Showcase](https://soilgrower.com/showcase/)
+**Practice:** [Soil Grower](https://soilgrower.com)
 
 ---
 
@@ -9,7 +9,7 @@
 
 Root systems require a continuous network of soil macropores to conduct gas exchange (oxygen diffusion in, carbon dioxide respiration out) and allow root cap elongation.
 
-* **Penetrometer Resistance Threshold (`ASTM D3441`):** Feeder root elongation slows sharply above `150 PSI` and ceases almost completely when soil penetrometer resistance exceeds `300 PSI`.
+* **Penetrometer Resistance Threshold (`ASAE S313.3`):** Feeder root elongation slows sharply above `150 PSI` and ceases almost completely when soil penetrometer resistance exceeds `300 PSI` (measured using handheld soil cone penetrometry per ASAE S313.3 standards).
 * **Bulk Density Threshold:** In Central Texas clay-loam and Blackland Prairie vertisols, undisturbed woodland soils typically exhibit bulk densities between `1.1` and `1.3 g/cm3`. Urban foot traffic, vehicle staging, and turf machinery compress pore spaces until bulk density exceeds `1.6 g/cm3`, collapsing macropore volume.
 * **Why Nutrient Fertilization Fails in Compacted Soil:** Laboratory soil testing (for example, Texas A&M AgriLife Soil, Water, and Forage Testing Laboratory records on mature *Quercus virginiana* groves) frequently confirms sufficient mineral reserves and organic matter (`> 4.5%`) beneath declining canopies. The limiting factor is physical hypoxia and mechanical impedance, not chemical deficiency. Applying synthetic NPK fertilizer to anaerobic, compacted soil fails to address the root cause.
 

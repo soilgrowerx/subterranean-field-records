@@ -60,7 +60,7 @@
         "privacy_offset_applied": {
           "type": "boolean",
           "const": true,
-          "description": "Coordinates are jittered to the corridor level to protect private landowner identity while preserving watershed and soil-series context."
+          "description": "Coordinates are rounded to 2 decimal places (approx. 1 km corridor resolution) to protect private landowner identity while preserving watershed and soil-series context."
         }
       }
     },
@@ -83,10 +83,6 @@
           "description": "Total area fractured via supersonic pneumatic excavation (AirSpade 2000 at 90 PSI)."
         },
         "decompaction_depth_inches": { "type": "string" },
-        "penetrometer_reduction_psi": {
-          "type": "string",
-          "description": "Pre-treatment and post-treatment soil penetrometer resistance readings (ASTM D3441)."
-        },
         "amendment_volumes": {
           "type": "object",
           "properties": {

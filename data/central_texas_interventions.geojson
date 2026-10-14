@@ -14,8 +14,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.7078,
-          30.649
+          -97.71,
+          30.65
         ]
       },
       "properties": {
@@ -29,7 +29,6 @@
         "specimens": "Quercus virginiana (Heritage Oak Grove)",
         "crz_sqft": 9300,
         "decompacted_area_sqft": 2300,
-        "penetrometer_reduction_psi": "Pre: 360 PSI to Post: 85 PSI",
         "scientific_notes": "Aimed at alleviating heavy student foot-traffic compaction. Half-CRZ pneumatic radial aeration blended with 7 cu yd thermal compost and 20 cu yd hardwood mulch cap.",
         "privacy_offset_applied": true
       }
@@ -40,8 +39,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.702,
-          30.2642
+          -97.7,
+          30.26
         ]
       },
       "properties": {
@@ -55,7 +54,6 @@
         "specimens": "Carya illinoinensis (Mature Legacy Pecans)",
         "crz_sqft": 2000,
         "decompacted_area_sqft": 2000,
-        "penetrometer_reduction_psi": "Pre: 340 PSI to Post: 85 PSI",
         "scientific_notes": "Remediated severe construction staging compaction. Deep decompacted 2,000 sq ft CRZ, excavated buried root flares, and rototilled 6.2 cu yds of organic compost into root zone.",
         "privacy_offset_applied": true
       }
@@ -66,8 +64,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.7645,
-          30.2995
+          -97.76,
+          30.3
         ]
       },
       "properties": {
@@ -81,7 +79,6 @@
         "specimens": "Quercus virginiana (Centenarian Heritage Live Oak)",
         "crz_sqft": 2400,
         "decompacted_area_sqft": 2400,
-        "penetrometer_reduction_psi": "Pre: 380 PSI to Post: 95 PSI",
         "scientific_notes": "Alleviated residential turf competition and historic foot-path hardpan. Exposed submerged root flare and created high-porosity fungal soil sponge.",
         "privacy_offset_applied": true
       }
@@ -92,8 +89,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.7412,
-          30.3095
+          -97.74,
+          30.31
         ]
       },
       "properties": {
@@ -107,7 +104,6 @@
         "specimens": "Carya illinoinensis (26.5\" DBH Pecan)",
         "crz_sqft": 1200,
         "decompacted_area_sqft": 1200,
-        "penetrometer_reduction_psi": "Pre: 390 PSI to Post: 80 PSI",
         "scientific_notes": "Prevented cambial necrosis and bark shockwaves by rejecting jackhammers; utilized AirSpade to clear root lip followed by vertical grapple lift and mycorrhizal backfill.",
         "privacy_offset_applied": true
       }
@@ -118,8 +114,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.669,
-          30.548
+          -97.67,
+          30.55
         ]
       },
       "properties": {
@@ -133,7 +129,6 @@
         "specimens": "Sideroxylon lanuginosum (Gum Bumelia), Celtis laevigata (Invasive Hackberry Root Mitigation)",
         "crz_sqft": 1500,
         "decompacted_area_sqft": 1500,
-        "penetrometer_reduction_psi": "Pre: 320 PSI to Post: 90 PSI",
         "scientific_notes": "Surgically pruned aggressive invasive hackberry roots choking the root collar of a heritage Gum Bumelia, followed by root flare decompression and biochar inoculation.",
         "privacy_offset_applied": true
       }
@@ -144,8 +139,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.7795,
-          30.209
+          -97.78,
+          30.21
         ]
       },
       "properties": {
@@ -159,7 +154,6 @@
         "specimens": "Quercus virginiana, Ulmus crassifolia",
         "crz_sqft": 4800,
         "decompacted_area_sqft": 4800,
-        "penetrometer_reduction_psi": "Pre: 410 PSI to Post: 85 PSI",
         "scientific_notes": "Turnkey soil rehabilitation across high-traffic retail venue. Eliminated compacted irrigation crust, aerated 4,800 sq ft, and incorporated 12 cu yds of thermal compost.",
         "privacy_offset_applied": true
       }
@@ -170,8 +164,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.199,
-          31.5175
+          -97.2,
+          31.52
         ]
       },
       "properties": {
@@ -185,7 +179,6 @@
         "specimens": "Quercus virginiana (Centenarian Live Oaks)",
         "crz_sqft": 4200,
         "decompacted_area_sqft": 4200,
-        "penetrometer_reduction_psi": "Pre: 420 PSI to Post: 90 PSI",
         "scientific_notes": "Overcame drought-hardened blackland vertisol clay shrinking/swelling stress. Established 18-inch vertical aeration columns backfilled with mineral basalt fines and humates.",
         "privacy_offset_applied": true
       }
@@ -196,8 +189,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.751,
-          30.252
+          -97.75,
+          30.25
         ]
       },
       "properties": {
@@ -211,7 +204,6 @@
         "specimens": "Lagerstroemia indica (Heritage Crepe Myrtle)",
         "crz_sqft": 400,
         "decompacted_area_sqft": 400,
-        "penetrometer_reduction_psi": "Pre: 310 PSI to Post: 85 PSI",
         "scientific_notes": "Surgical root zone aeration and compost integration for established ornamental specimen trees under urban foot compaction.",
         "privacy_offset_applied": true
       }
@@ -222,8 +214,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.863,
-          30.283
+          -97.86,
+          30.28
         ]
       },
       "properties": {
@@ -237,7 +229,6 @@
         "specimens": "Quercus virginiana (Mature Live Oaks), Ulmus crassifolia (Cedar Elm)",
         "crz_sqft": 3200,
         "decompacted_area_sqft": 3200,
-        "penetrometer_reduction_psi": "Pre: 340 PSI to Post: 90 PSI",
         "scientific_notes": "Pneumatic soil fracturing in sensitive Edwards Recharge karst soils.",
         "privacy_offset_applied": true
       }
@@ -248,8 +239,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.697,
-          30.257
+          -97.7,
+          30.26
         ]
       },
       "properties": {
@@ -263,7 +254,6 @@
         "specimens": "Quercus virginiana (Tree T19802)",
         "crz_sqft": 1100,
         "decompacted_area_sqft": 1100,
-        "penetrometer_reduction_psi": "Pre: 370 PSI to Post: 95 PSI",
         "scientific_notes": "Decompacting confined urban tree wells to restore macropore connectivity.",
         "privacy_offset_applied": true
       }
@@ -274,8 +264,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.728,
-          30.347
+          -97.73,
+          30.35
         ]
       },
       "properties": {
@@ -289,7 +279,6 @@
         "specimens": "Quercus virginiana (Heritage Live Oak)",
         "crz_sqft": 1600,
         "decompacted_area_sqft": 1600,
-        "penetrometer_reduction_psi": "Pre: 330 PSI to Post: 80 PSI",
         "scientific_notes": "Remobilization of mature Live Oak root systems following site disturbance.",
         "privacy_offset_applied": true
       }
@@ -300,13 +289,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.742,
-          30.635
+          -97.74,
+          30.64
         ]
       },
       "properties": {
         "record_id": "SG-REC-012",
-        "title": "Heritage Live Oak Grove 12,000 sq ft Soil Invigoration & Lab-Verified Soil Biology",
+        "title": "Heritage Live Oak Grove 12,000 sq ft Soil Invigoration & Soil Chemistry Analysis",
         "corridor": "San Gabriel River Basin Corridor, Georgetown, TX",
         "watershed": "San Gabriel River Basin",
         "date": "2026-03-12",
@@ -315,7 +304,6 @@
         "specimens": "Quercus virginiana Grove (8 Heritage Live Oaks)",
         "crz_sqft": 12000,
         "decompacted_area_sqft": 12000,
-        "penetrometer_reduction_psi": "Pre: 360 PSI to Post: 90 PSI",
         "scientific_notes": "Site tree survey and Texas A&M AgriLife laboratory testing (Report 691815) confirmed adequate mineral reserves and 4.91% organic matter, establishing that tree stress was caused by physical pore compaction and hypoxia rather than chemical nutrient deficiency.",
         "privacy_offset_applied": true
       }
@@ -326,8 +314,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.206,
-          30.613
+          -97.21,
+          30.61
         ]
       },
       "properties": {
@@ -341,7 +329,6 @@
         "specimens": "Quercus fusiformis (Protected Escarpment Live Oaks)",
         "crz_sqft": null,
         "decompacted_area_sqft": null,
-        "penetrometer_reduction_psi": "Subsurface Root Mapping",
         "scientific_notes": "Surgical root discovery allowing infrastructure installation without severing anchor roots.",
         "privacy_offset_applied": true
       }
@@ -352,8 +339,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.668,
-          30.548
+          -97.67,
+          30.55
         ]
       },
       "properties": {
@@ -367,7 +354,6 @@
         "specimens": "Quercus virginiana (Submerged Collar Live Oak)",
         "crz_sqft": 850,
         "decompacted_area_sqft": 850,
-        "penetrometer_reduction_psi": "Pre: 390 PSI to Post: 85 PSI",
         "scientific_notes": "Correcting vascular constriction caused by deep planting and soil accumulation.",
         "privacy_offset_applied": true
       }
@@ -378,8 +364,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.946,
-          30.312
+          -97.95,
+          30.31
         ]
       },
       "properties": {
@@ -393,7 +379,6 @@
         "specimens": "Quercus virginiana (Hill Country Live Oak)",
         "crz_sqft": 1400,
         "decompacted_area_sqft": 1400,
-        "penetrometer_reduction_psi": "Pre: 350 PSI to Post: 90 PSI",
         "scientific_notes": "Exposing subterranean flare lenticels and establishing living mulch sponge.",
         "privacy_offset_applied": true
       }
@@ -404,8 +389,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.753,
-          30.364
+          -97.75,
+          30.36
         ]
       },
       "properties": {
@@ -419,7 +404,6 @@
         "specimens": "Quercus virginiana (Sanctuary Heritage Oak Grove)",
         "crz_sqft": 5500,
         "decompacted_area_sqft": 5500,
-        "penetrometer_reduction_psi": "Pre: 385 PSI to Post: 90 PSI",
         "scientific_notes": "Restoring mycorrhizal fungi and decompacting soil under heritage oak grove.",
         "privacy_offset_applied": true
       }
@@ -430,8 +414,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.708,
-          30.389
+          -97.71,
+          30.39
         ]
       },
       "properties": {
@@ -445,7 +429,6 @@
         "specimens": "Quercus virginiana (Industrial Corridor Heritage Live Oaks)",
         "crz_sqft": 3600,
         "decompacted_area_sqft": 3600,
-        "penetrometer_reduction_psi": "Pre: 410 PSI to Post: 95 PSI",
         "scientific_notes": "Mitigating intense commercial parking and equipment compaction in Walnut Creek watershed.",
         "privacy_offset_applied": true
       }
