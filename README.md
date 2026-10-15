@@ -78,3 +78,11 @@ Run the zero-dependency Python verification script to validate schema invariants
 ```bash
 python3 scripts/verify_records.py
 ```
+
+---
+
+## Licensing
+
+* **Data, Primers, and Schemas:** Creative Commons Attribution 4.0 International ([`LICENSE`](LICENSE))
+* **Verification Scripts and Code:** MIT License ([`LICENSE-MIT`](LICENSE-MIT))
+
