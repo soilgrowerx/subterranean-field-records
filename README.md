@@ -9,7 +9,7 @@
 
 Ecological restoration in working landscapes and urban forests begins beneath the soil surface. This repository contains an open spatial dataset (`GeoJSON`), JSON Schema specifications, and soil-physics primers documenting field interventions across Central Texas watersheds.
 
-Every record documents a field intervention across Central Texas watersheds (San Gabriel River Basin, Shoal Creek, Brushy Creek, Barton Creek / Edwards Recharge Zone, and the Colorado and Brazos River basins), covering supersonic pneumatic soil fracturing (`AirSpade 2000` at `90 PSI`), surgical root collar excavations (`RCX`), stem-girdling root remediation, and rhizosphere carbon sponge establishment.
+Every record documents a field intervention across Central Texas watersheds (San Gabriel River Basin, Shoal Creek, Brushy Creek, Barton Creek / Edwards Recharge Zone, and the Colorado and Brazos River basins), covering supersonic pneumatic soil fracturing (`AirSpade 5000` at `90 PSI`), surgical root collar excavations (`RCX`), stem-girdling root remediation, and rhizosphere carbon sponge establishment.
 
 ---
 
@@ -19,7 +19,7 @@ Every record documents a field intervention across Central Texas watersheds (San
 | :--- | :--- | :--- |
 | **Documented Interventions** | `17` parcel case records | Documented field interventions across Central Texas |
 | **Critical Root Zone (CRZ) Evaluated** | `55,050 sq ft` | Summed across 17 documented parcel records |
-| **Pneumatic Soil Decompaction Area** | `48,050 sq ft` | Fractured via AirSpade 2000 (`6 to 18 in` depth) |
+| **Pneumatic Soil Decompaction Area** | `48,050 sq ft` | Fractured via AirSpade 5000 (`6 to 18 in` depth) |
 | **Biological & Carbon Amendments** | `108.5 cu yd` | Screened thermal compost, humates, and biochar |
 | **Specimen Trees Documented** | `45` primary canopy specimens | Heritage oaks, legacy pecans, and native hardwood canopies |
 | **Soil Compaction Diagnostic Reference** | `ASAE S313.3` | Handheld soil cone penetrometer and pneumatic decompaction |
@@ -61,7 +61,7 @@ subterranean-field-records/
 ## Selected Field Case Summaries
 
 * **`SG-REC-012` (San Gabriel River Basin, Georgetown, TX):**  
-  *12,000 sq ft Heritage Live Oak Grove Soil Invigoration.* Site tree survey and Texas A&M AgriLife Soil Testing Laboratory analysis (Report `691815`) confirmed adequate mineral reserves and `4.91%` organic matter, proving that canopy decline was driven by physical pore compaction and root-zone hypoxia rather than chemical nutrient deficiency. Remediated via supersonic pneumatic fracturing (`AirSpade 2000`), `13 cu yd` compost incorporation, and `35 cu yd` native hardwood mulch cap.
+  *12,000 sq ft Heritage Live Oak Grove Soil Invigoration.* Site tree survey and Texas A&M AgriLife Soil Testing Laboratory analysis (Report `691815`) confirmed adequate mineral reserves and `4.91%` organic matter, proving that canopy decline was driven by physical pore compaction and root-zone hypoxia rather than chemical nutrient deficiency. Remediated via supersonic pneumatic fracturing (`AirSpade 5000`), `13 cu yd` compost incorporation, and `35 cu yd` native hardwood mulch cap.
 * **`SG-REC-001` (Georgetown Institutional Campus Corridor, TX):**  
   *Educational Campus Heritage Oak Grove Restoration (`9,300 sq ft` CRZ).* Relieved severe student foot-traffic compaction across four heritage *Quercus virginiana* specimens using half-CRZ pneumatic radial aeration blended with `7 cu yd` thermal compost and `10 cu yd` hardwood mulch sponge.
 * **`SG-REC-004` (Central Austin Commercial Corridor, Shoal Creek Watershed):**  

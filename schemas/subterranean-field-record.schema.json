@@ -80,7 +80,7 @@
         },
         "decompacted_area_sqft": {
           "type": "number",
-          "description": "Total area fractured via supersonic pneumatic excavation (AirSpade 2000 at 90 PSI)."
+          "description": "Total area fractured via supersonic pneumatic excavation (AirSpade 5000 at 90 PSI)."
         },
         "decompaction_depth_inches": { "type": "string" },
         "amendment_volumes": {

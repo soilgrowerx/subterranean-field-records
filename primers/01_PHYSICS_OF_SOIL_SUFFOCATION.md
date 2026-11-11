@@ -13,7 +13,7 @@ Root systems require a continuous network of soil macropores to conduct gas exch
 * **Bulk Density Threshold:** In Central Texas clay-loam and Blackland Prairie vertisols, undisturbed woodland soils typically exhibit bulk densities between `1.1` and `1.3 g/cm3`. Urban foot traffic, vehicle staging, and turf machinery compress pore spaces until bulk density exceeds `1.6 g/cm3`, collapsing macropore volume.
 * **Why Nutrient Fertilization Fails in Compacted Soil:** Laboratory soil testing (for example, Texas A&M AgriLife Soil, Water, and Forage Testing Laboratory records on mature *Quercus virginiana* groves) frequently confirms sufficient mineral reserves and organic matter (`> 4.5%`) beneath declining canopies. The limiting factor is physical hypoxia and mechanical impedance, not chemical deficiency. Applying synthetic NPK fertilizer to anaerobic, compacted soil fails to address the root cause.
 
-### Supersonic Pneumatic Fracturing (`AirSpade 2000` at `90 PSI`)
+### Supersonic Pneumatic Fracturing (`AirSpade 5000` at `90 PSI`)
 Mechanical trenchers and steel tillage teeth shear non-woody absorbing roots and strip periderm bark from structural roots. Supersonic air excavation directs a focused jet of compressed air (`90 PSI`, `150+ CFM`) that shatters rigid, compacted mineral soil aggregates along natural cleavage planes while leaving flexible vascular root tissues (`> 2 mm`) intact.
 
 ---
