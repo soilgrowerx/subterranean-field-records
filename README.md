@@ -1,6 +1,6 @@
 # Subterranean Field Records & Spatial Root Zone Interventions
 
-**Lead Practitioner:** George Steward, ISA Certified Arborist (`TX-362025A`, Oak Wilt Qualified)  
+**Lead Practitioner:** George Steward, ISA Certified Arborist (`TX-362025A`)  
 **Practice:** [Soil Grower](https://soilgrower.com)
 
 ---
